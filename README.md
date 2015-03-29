@@ -21,8 +21,8 @@ Instantiate a new a OBJLoader and use it to first load the model in and then ren
 - **[View Open Issues](https://github.com/Blunderchips/LWJGL-OBJ-Loader/issues )**
 
 ###See
-- [wikipedia - Wavefront .obj file](http://en.wikipedia.org/wiki/Wavefront_.obj_file )
-- [lwjgl.org](http://www.lwjgl.org/ )
+- [wikipedia - Wavefront .obj file](http://en.wikipedia.org/wiki/Wavefront_.obj_file "en.wikipedia.org")
+- [lwjgl.org](http://www.lwjgl.org/ "lwjgl.org")
 
 #####Everyone who's created or contributed to issues and pull requests, which make the project better!
 
