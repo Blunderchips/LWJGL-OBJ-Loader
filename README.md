@@ -4,13 +4,13 @@ Wavefront .obj file loader + renderer for <a href='http://www.lwjgl.org/' title=
 
 **Watch/star to follow along with progress!**
 
-###Download
+### Download
 You can download the source code right off of <a href='https://github.com/Blunderchips/JLWJGL-OBJ-Loader/archive/master.zip' title='download'>GitHub</a> or you can just clone the repository:
 
 HTTPS: https://github.com/Blunderchips/LWJGL-OBJ-Loader.git <br/>
 SSH: git@github.com:Blunderchips/LWJGL-OBJ-Loader.git <br/>
 
-###Use
+### Use
 Instantiate a new a OBJLoader and use it to first load the model in and then render it. The loader can create a new displaylist of the model.
 **It only supports models with both texture coordinates and normals**
 
@@ -20,13 +20,13 @@ Instantiate a new a OBJLoader and use it to first load the model in and then ren
 - **[Report New Issue](https://github.com/Blunderchips/LWJGL-OBJ-Loader/issues/new )**
 - **[View Open Issues](https://github.com/Blunderchips/LWJGL-OBJ-Loader/issues )**
 
-###See
+### See
 - [wikipedia - Wavefront .obj file](http://en.wikipedia.org/wiki/Wavefront_.obj_file "en.wikipedia.org")
 - [lwjgl.org](http://www.lwjgl.org/ "lwjgl.org")
 
-#####Everyone who's created or contributed to issues and pull requests, which make the project better!
+##### Everyone who's created or contributed to issues and pull requests, which make the project better!
 
-###Licenece - The MIT License (MIT)
+### Licenece - The MIT License (MIT)
 Copyright (c) 2014 Matthew 'siD' Van der Bijl
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
